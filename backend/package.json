@@ -7,10 +7,10 @@
   "license": "UNLICENSED",
   "scripts": {
     "dev": "sanity dev",
-    "predeploy":"npm run build",
     "start": "sanity start",
-    "build": "sanity build",
     "deploy": "sanity deploy && gh-pages -d build ",
+    "predeploy":"npm run build",
+    "build": "sanity build",
     "deploy-graphql": "sanity graphql deploy"
   },
   "keywords": [
