@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.d6eb9b88.css",
+    "main.js": "/Myportfolio/static/js/main.c1ef7a38.js",
+    "static/js/726.208ec286.chunk.js": "/Myportfolio/static/js/726.208ec286.chunk.js",
+    "static/media/about04.png": "/Myportfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/Myportfolio/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/Myportfolio/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgIMG.png": "/Myportfolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Myportfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/about03.png": "/Myportfolio/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/profile.png": "/Myportfolio/static/media/profile.d8521bd73cdac3a36070.png",
+    "static/media/spotify.png": "/Myportfolio/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/nb.png": "/Myportfolio/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/asus.png": "/Myportfolio/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/adidas.png": "/Myportfolio/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/bolt.png": "/Myportfolio/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/logo.png": "/Myportfolio/static/media/logo.059dfc5690bcd8294764.png",
+    "static/media/redux.png": "/Myportfolio/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Myportfolio/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Myportfolio/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/Myportfolio/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/Myportfolio/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/Myportfolio/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/Myportfolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/Myportfolio/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/Myportfolio/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Myportfolio/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Myportfolio/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/Myportfolio/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/Myportfolio/index.html",
+    "static/media/circle.svg": "/Myportfolio/static/media/circle.ae5f84b3853b9e34aa83cf8dada715c5.svg",
+    "main.d6eb9b88.css.map": "/Myportfolio/static/css/main.d6eb9b88.css.map",
+    "main.c1ef7a38.js.map": "/Myportfolio/static/js/main.c1ef7a38.js.map",
+    "726.208ec286.chunk.js.map": "/Myportfolio/static/js/726.208ec286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6eb9b88.css",
+    "static/js/main.c1ef7a38.js"
+  ]
+}
